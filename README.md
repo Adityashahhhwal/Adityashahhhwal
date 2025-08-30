@@ -3,7 +3,7 @@
 🚀 A passionate **Computer Science student (2028 grad)**, exploring the world of **Full-Stack Development** and **Open Source**.  
 
 ## 🌱 Currently Learning  
-- Java, C++ & Data Structures  
+- C, C++ & Data Structures  
 - React + JavaScript  
 - Git & GitHub (building my dev workflow)  
 
