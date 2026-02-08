@@ -16,11 +16,12 @@ I'm documenting all my learning in my repo 👉 [learning-2025](https://github.c
 - **Tools:** Git, VS Code  
 
 ## 📈 GitHub Stats  
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityashahhhwal&show_icons=true&theme=tokyonight)  
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityashahhhwal&show_icons=true&theme=tokyonight&cache_seconds=86400)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adityashahhhwal&theme=tokyonight)  
 
 ## 🌍 Connect with me  
 - ✨ [GitHub](https://github.com/Adityashahhhwal)  
 - 💬 Learning in public on Threads/Twitter soon!  
 
 ---
-⭐️ *“Building one step at a time — code, learn, share.”*  
+⭐️ *"Building one step at a time — code, learn, share."*  
