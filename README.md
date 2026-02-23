@@ -1,5 +1,4 @@
 # Hi, I'm Aditya 👋  
-
 🚀 An aspiring **Computer Science student (2028 grad)**, exploring the world of **Full-Stack Development** and **Open Source**.  
 
 ## 🌱 Currently Learning  
