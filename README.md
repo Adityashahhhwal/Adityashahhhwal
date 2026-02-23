@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Aditya 👋</h1>
+<h1 align="center">Hi, I'm Aditya Shahwal👋</h1>
 
 <p align="center">
-  <strong>Aspiring Software Engineer & Full-Stack Developer (2028 Grad)</strong><br>
+  <strong>Aspiring Software Engineer(2028 Grad)</strong><br>
   <i>Exploring the world of Full-Stack Development, AI Integration, and Open Source.</i>
 </p>
 
@@ -19,19 +19,19 @@ A comprehensive emergency response navigator built for Smart India Hackathon 202
 A responsive, dual-theme developer portfolio.
 - **Tech:** HTML, CSS, JavaScript
 - **Features:** Light/Dark mode toggle, mobile-first responsive design, and CSS variables for theming.
-- **Live Demo:** [adityashahhhwal.github.io](https://adityashahhhwal.github.io/learning-2025/06-portfolio-project/)
+- **Live Demo:** [adityashahhhwal.me](https://adityashahhhwal.me)
+
+### 🌱 [learning-2025](https://github.com/Adityashahhhwal/learning-2025)
+I believe in continuous growth and "learning in public". Check out my ongoing 2025 learning journey where I build projects to master DOM manipulation, JavaScript fundamentals, and full-stack concepts:
+👉 [learning-2025](https://github.com/Adityashahhhwal/learning-2025)
+
 
 ## 🛠️ Tech Stack & Skills
 
 - **Languages:** C/C++, Java, JavaScript (ES6+)
 - **Frontend:** React, HTML5, CSS3, Responsive Design
 - **Backend & Database:** Node.js, Express, MongoDB
-- **Tools & Integration:** Git, GitHub, RESTful APIs, OpenRouter (AI Integration), VS Code
-
-## 🌱 Continuous Learning
-
-I believe in continuous growth and "learning in public". Check out my ongoing 2025 learning journey where I build projects to master DOM manipulation, JavaScript fundamentals, and full-stack concepts:
-👉 **[learning-2025 Repository](https://github.com/Adityashahhhwal/learning-2025)**
+- **Tools & Integration:** Git, GitHub, RESTful APIs, OpenRouter (AI Integration)
 
 ## 📈 GitHub Stats
 
