@@ -7,7 +7,7 @@
 
 ## 🚀 Featured Projects
 
-### [Disaster Management AI System (SIH 2025)](https://github.com/Adityashahhhwal/SIH-india2025)
+### [Disaster Management AI System](https://github.com/Adityashahhhwal/Disaster-Management-AI-System)
 A comprehensive emergency response navigator built for Smart India Hackathon 2025.
 - **Frontend:** Responsive interface with offline-first mock API capabilities.
 - **Backend:** Node.js/Express server integrating **OpenRouter AI (GPT-5/Grok)** for intelligent, context-aware disaster guidance.
