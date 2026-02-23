@@ -19,7 +19,7 @@ A comprehensive emergency response navigator built for Smart India Hackathon 202
 A responsive, dual-theme developer portfolio.
 - **Tech:** HTML, CSS, JavaScript
 - **Features:** Light/Dark mode toggle, mobile-first responsive design, and CSS variables for theming.
-- **Live Demo:** [adityashahhhwal.github.io](https://adityashahhhwal.github.io/learning-2025/06-portfolio-project/)
+- **Live Demo:** [adityashahhhwal.me](https://adityashahwal.me)
 
 ## 🛠️ Tech Stack & Skills
 
